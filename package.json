@@ -1,5 +1,5 @@
 {
-  "name": "Writing-to-a-File-using-the-Built-in-File-System-Module-in-Node.js",
+  "name": "API-creation",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/Writing-to-a-File-using-the-Built-in-File-System-Module-in-Node.js.git"
+    "url": "git+https://github.com/acciojob/API-creation.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/Writing-to-a-File-using-the-Built-in-File-System-Module-in-Node.js/issues"
+    "url": "https://github.com/acciojob/API-creation/issues"
   },
-  "homepage": "https://github.com/acciojob/Writing-to-a-File-using-the-Built-in-File-System-Module-in-Node.js#readme",
+  "homepage": "https://github.com/acciojob/API-creation#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
